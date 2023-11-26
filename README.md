@@ -1,0 +1,1 @@
+# Brazilhomes: In this project, I worked with a dataset of homes for sale in Brazil. My goal was to determine if there are regional differences in the real estate market. Also, I took a look at southern Brazil to see if there is a relationship betweeen home size and prize.
